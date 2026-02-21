@@ -58,8 +58,4 @@ I am a Data Analyst with experience in the Information Technology and Financial 
 </p>
 
 ### 🌍 Languages
-English (Professional)
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
+English (Fluent)
