@@ -15,7 +15,7 @@
 I am a Data Analyst with experience in the Information Technology, Consulting and Financial Technology sector. I enjoy spotting patterns that increase revenue and improve operational efficiency. Let's connect and explore how we can turn data into actionable insights together.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://github.com/OlubukolaSoneye)
+### [🏆 Check Out My Full Portfolio Website](https://olubukolasoneye.github.io/)
       
 
 ## 🛠️ Technical Skillset
